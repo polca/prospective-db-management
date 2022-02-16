@@ -49,6 +49,8 @@ Headers are a mix of fixed values and scenario labels.
 
 **Proposal**: Fix these values and number of columns as currently used.
 
+**Proposal**: Make exchange types explicit.
+
 Scenario labels don't seem to have a naming convention. That's probably fine? But the metadata needs to have more information.
 
 ### Required attributes for metadata file
