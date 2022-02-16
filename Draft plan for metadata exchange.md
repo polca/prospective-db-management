@@ -45,6 +45,8 @@ Brightway can offer storage services for easy download through support from Dép
 
 Add functionality to import this data, and to download dependent databases
 
+Need functionality to see if and when datapackages conflict
+
 ## AB Superstructure scenario format
 
 ### Headers
