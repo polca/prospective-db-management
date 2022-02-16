@@ -29,6 +29,8 @@ Brightway can offer storage services for easy download through support from Dép
 
 *Question*: Do we need to invent a unique identifier for LCI databases? Or make up a URI scheme? Is Zenodo download link a good URI?
 
+*Question*: Single centralized library repo versus decentralized approach with search-engine-based discovery? Interaction with existing efforts, e.g. GLAD, OpenLCA NEXUS?
+
 *Question*: How to handle links to proprietary dependencies?
 
 *Question*: Security of external strategies. Maybe have one "blessed" repo with external strategies?
