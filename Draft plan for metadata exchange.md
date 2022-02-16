@@ -16,6 +16,8 @@ The column labels are fixed by the labels used by Brightway.
 
 * List of strategies (plus libraries with strategies? Notebooks/python files?)
 
+In metadata or following Futura recipe YAML?
+
 ### Optional attributes for metadata file
 
 * Brightway library versions
