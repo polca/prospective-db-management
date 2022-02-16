@@ -45,6 +45,8 @@ Brightway can offer storage services for easy download through support from Dép
 
 Add functionality to import this data, and to download dependent databases
 
+Need functionality to see if and when datapackages conflict
+
 ## AB Superstructure scenario format
 
 ### Headers
@@ -53,7 +55,7 @@ Headers are a mix of fixed values and scenario labels.
 
 **Proposal**: Fix these values and number of columns as currently used.
 
-**Proposal**: Make exchange types explicit.
+*Question*: Is flow type reqiured and guaranteed to be correct?
 
 Scenario labels don't seem to have a naming convention. That's probably fine? But the metadata needs to have more information.
 
