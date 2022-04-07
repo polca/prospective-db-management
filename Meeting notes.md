@@ -40,11 +40,11 @@ For the short-term, we could create a community on zenodo for LCA scenario data 
 
 So far, there is no LCA community as far as I know (at least I could not find one).
 
-07-04-2022
+## 07-04-2022
 
 ### Presentation and discussion on premise
 
-- new functionality: possiblilty of adding user-defined scenarios
+- new functionality: possiblilty of adding user-defined scenarios 
 - several MS students are testing out this new functionality with specific case-studies
 - Marc (and Carina?) will also test it out on their scenarios
 - We need to think about compatibility of user-defined scenarios with IAMs and with eachother
