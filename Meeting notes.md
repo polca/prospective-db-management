@@ -28,9 +28,6 @@ James Joyce’s FUTURA (https://github.com/pjamesjoyce/futura) offers an interes
   - Information on dependencies and consistencies with other scenarios
 - Detailed description and data at various levels
   - Inventories that are required on top of existing LCI databases (e.g. bw Excel format or ILCD) 
-  - Code and data for generating scenarios
-  - Recipes (similar to Futura)
-  - Scenario difference file
 
 ### Idea for zenodo community
 
@@ -42,3 +39,27 @@ For the short-term, we could create a community on zenodo for LCA scenario data 
 -	Upload — get custom upload link to send to people”
 
 So far, there is no LCA community as far as I know (at least I could not find one).
+
+07-04-2022
+
+### Presentation and discussion on premise
+
+- new functionality: possiblilty of adding user-defined scenarios
+- several MS students are testing out this new functionality with specific case-studies
+- Marc (and Carina?) will also test it out on their scenarios
+- We need to think about compatibility of user-defined scenarios with IAMs and with eachother
+- A graphical representation of all available scenarios and their compatibility would be nice (like a selection tree)
+- We need to think about soft compatibility (is this scenario consistent with the story of the SSPS scenario) and hard compatibility (is the market I need present in the database, in what order should we apply scenarios)
+- Let's reduce redundancy in documentation. If we want both a configuration file and a descriptive A4, can one of them be generated automatically based on the other?
+- Ideally we could store all the created user-defined scenarios in a library so that all users can easily download them and use in their 
+- We should keep in mind legal issues regarding storing/dowloading. Zenodo is not ideal. gitlab is better.
+
+
+### Discussion on the future collaboration of this group
+- The general feeling is that the meetings are valuable and should be continued. 
+- The discussions section of this repository will be used for ongoing discussions and questions.
+- At the same time, bi-monthly video-conference meetings will be organized for more in-depth discussions. Invitations will be send out. All particpipants are invited to submit agenda points.
+- It may be early for a project proposal, but the idea is still in the air. Future discussions may help getting clearer ideas.
+- It was suggested to look into starting a SETAC working group or a SETAC interest group. This will be on next meeting's agenda.
+- Another suggestion was to organize a brightcon session.
+
