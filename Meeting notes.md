@@ -63,3 +63,29 @@ So far, there is no LCA community as far as I know (at least I could not find on
 - It was suggested to look into starting a SETAC working group or a SETAC interest group. This will be on next meeting's agenda.
 - Another suggestion was to organize a brightcon session.
 
+## 23-05-2022
+
+### Short summary
+- Two objectives for database/scenario sharing were defined. The first is archiving our work and getting a DOI for referencing. A Zenodo community is a good solution for this objective. The second objective is to design a tool that combines different scenarios and creates a personalized and harmonized database for LCA practitioners. A Github repository is a good solution for creating this tool. Ideally we can integrate the two functions at some point, but first a workflow needs to be made. More detailed notes are given below.
+- The presentation on consequential prospective LCA showed different methods for defining marginal suppliers and how this affects the consequential prospective market mixes. Work is ongoing to include consequential LCA in premise.
+- A broader prospective LCA network was set-up during the SETAC conference. The objectives of this network include, but are not limited to exchange of research findings, clarification of terminology, exchange of data, exchange on scenario methodology, exchange on upscaling approaches.
+-  A Flemish call for funding was mentioned (https://www.fwo.be/en/fellowships-funding/research-projects/sbo-projects/). However, only 20% of the funding can go to non-flemish institutions, so this is not a funding option for our working group.
+
+### Discussion on Zenodo & Github
+- A community on Zenodo allows to gather all prospective scenario data together. Each user can tag their data with the community tag, and the community curator decides whether the data belongs to the community.
+- Hosting a Zenodo community would require the WG to appoint a curator. We could set up an inpersonal e-mail account for the WG for administrative purposes. This account could be shared and used as curator account to share the workload of curating and ensuring continuity of curation in case of job-changes.
+- Another option is to check if Zenodo allows to share different persons to curate the community with different accounts
+- There are no legal objections to using Zenodo
+- There is a limit to the number of (user?) requests for the data on Zenodo. The limit depends on the type of data, but will not pose a problem at this point of the WG. We do not expect hundreds of downloads per minute in the short term.
+- Who can delete the data on Zenodo? The author? The curator? There is a DOI, so a link to the dataset exists always. However, the data can be removed. In that case the link will just refer to the metadata.
+- On Github we can automize the technical review of data. Each time a data generator provides its scenario, the tool should be able to check automatically for (technical) consistency and compatibility. Additional review may be required.
+
+### Discussion on tasks to work on
+- We need to set up a workflow for sharing, harmonizing and combining scenario data. This includes defining:
+    - What does the data provider need to do (which format to provide, which metadata to provide)
+    - What does the github curator need to do (Which reviews are automized and which are not)
+    - Guidelines on how to share scenario data without infringing Ecoinvent rights
+    - At what point in the workflow will the data be archived at Zenodo and does this happen automatically or not?
+
+    
+
