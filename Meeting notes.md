@@ -87,5 +87,24 @@ So far, there is no LCA community as far as I know (at least I could not find on
     - Guidelines on how to share scenario data without infringing Ecoinvent rights
     - At what point in the workflow will the data be archived at Zenodo and does this happen automatically or not?
 
+## 09-03-2023
+
+### Discussion on the (larger) Prospective LCA network and communication
+- The group has shown interest in joining the Prospective LCA network as a working group.
+- This will not change the invested time for the group, but we will use the official channels (website, LinkedIn) for communication and increasing visibility.
+- The background working group has two different pillar: software development and more "philosophical" discussions. Github is the best medium for the first pillar, but maybe we need a second medium for the philosophical pillar. We need to think about which medium is good.
+- Maybe we need to think about a name when we join the prospective LCA network, there is some confusion about which group is which.
+
+### Brainstorm session about topics that we want to work on
+- Distribution and reporting of databases: how to make it easy and transparent. This is work in progress. First steps are unfold and replicate data packages. 
+- Making reports of changes that have been done by premise is a next step
+- There is also work ongoing to integrate unfold in the Activity Browser
+- It could be nice to be able to use the superstructure approach in brightway. However, today this is not straightforward to implement and it requires work from brigthway side. Is not the top priority.
+- There is also a need for harmonization of scenario documentation. From premise side, but also in the general scientific literature. Often it is not easy to understand the scenarios that are being descibed. Our working group could develop guidelines on how to do this in a transparent and understandable manner based on our experience with premise.
+- Other impact categories could be investigated, because they are not covered by IAMS. Work is ongoing on including scenarios for the Montreal Protocol to better assess ozone depletion. Similar work could be persued for other chemicals (pesticides for example).
+
+### Hosting datbases on Ecoinvent
+- This topic will be moved to the next meeting. The general feeling is that it could be possible, but there are some risks to further discuss.
+
     
 
