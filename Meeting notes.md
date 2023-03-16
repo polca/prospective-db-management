@@ -98,7 +98,7 @@ So far, there is no LCA community as far as I know (at least I could not find on
 ### Brainstorm session about topics that we want to work on
 - Distribution and reporting of databases: how to make it easy and transparent. This is work in progress. First steps are unfold and replicate data packages. 
 - Making reports of changes that have been done by premise is a next step
-- There is also work ongoing to integrate unfold in the Activity Browser
+- There is also interest to integrate [unfold](https://github.com/polca/unfold) and [replicate](https://github.com/polca/replicate) in the [Activity Browser](https://github.com/LCA-ActivityBrowser/activity-browser)
 - It could be nice to be able to use the superstructure approach in brightway. However, today this is not straightforward to implement and it requires work from brigthway side. Is not the top priority.
 - There is also a need for harmonization of scenario documentation. From premise side, but also in the general scientific literature. Often it is not easy to understand the scenarios that are being descibed. Our working group could develop guidelines on how to do this in a transparent and understandable manner based on our experience with premise.
 - Other impact categories could be investigated, because they are not covered by IAMS. Work is ongoing on including scenarios for the Montreal Protocol to better assess ozone depletion. Similar work could be persued for other chemicals (pesticides for example).
